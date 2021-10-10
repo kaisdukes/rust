@@ -1,2 +1,3 @@
-# rust
+# Rust
+
 Rust tutorials.
